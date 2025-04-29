@@ -1,1 +1,15 @@
 venv/
+**/.terraform/*
+*.tfstate
+*.tfstate.*.backup
+*.tfplan
+crash.log
+crash.*.log
+
+*.tfvars
+*.tfvars.json
+
+.terraformrc
+terraform.rc
+
+.vscode/
