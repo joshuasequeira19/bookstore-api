@@ -129,12 +129,12 @@ mock_products = [
         "id": "10", 
         "name": "Dracula", 
         "author": "Bram Stoker",
-        "price": 14.99, 
+        "price": 4201.69, 
         "categoryId": "classics",
         "category": "Classics",
         "description": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduced the character of Count Dracula and established many conventions of subsequent vampire fantasy.",
         "imageUrl": "/images/books/bram-stoker-dracula.jpg",
-        "pages": 418,
+        "pages": 420,
         "published": 1897
     },
     {
